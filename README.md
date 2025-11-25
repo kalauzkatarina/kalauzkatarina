@@ -45,11 +45,3 @@ Outside of studies, I enjoy sports: running, gym, and reading world literature, 
   <img src="https://img.shields.io/badge/GitHub-2d4b2d?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-6e8b6e?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
-
----
-
-## GitHub Statistics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalauzkatarina&theme=dark&hide_border=false&layout=compact" height="150"/>
-</p>
